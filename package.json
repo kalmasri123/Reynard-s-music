@@ -1,0 +1,20 @@
+{
+  "name": "reynardsmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "icy": "^2.1.0",
+    "opusscript": "0.0.6",
+    "ytdl": "^0.10.1"
+  }
+}
